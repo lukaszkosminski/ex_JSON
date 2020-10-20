@@ -1,0 +1,8 @@
+-obiekty domenowe serializowane na json
+-zapisywanie do pliku za pomocą specjalnego parsera
+-dane z plików wczytywane do programu i mapowane na obiekty domenowe
+-przygotować odpowiedni plik z danymi, który bedzie automatycznie wczytywany po uruchomieniu aplikacji i zmapowany na obiekty domenowe
+
+w przyszłości :
+zamiast pliku JSON - zewnetrzne API
+
